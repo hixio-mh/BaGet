@@ -19,7 +19,7 @@
     "react-markdown": "^4.3.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.1",
-    "semver": "^6.2.0",
+    "semver": "^7.5.2",
     "timeago.js": "^3.0.2"
   },
   "scripts": {
